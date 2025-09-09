@@ -1,7 +1,8 @@
 <!-- Hero -->
 <h1 align="center">Hi, I am Malte Landwehr</h1>
 <p align="center">
-CMO & CPO @ <a href="https://peec.ai">Peec AI</a> - building AI Search Analytics for GEO (Generative Engine Optimization) and AEO (Answer Engine Optimization).
+CPO & CMO @ <a href="https://peec.ai">Peec AI</a>.
+Building AI Search Analytics for GEO (Generative Engine Optimization) and AEO (Answer Engine Optimization).
 </p>
 
 <p align="center">
