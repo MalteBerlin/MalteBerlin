@@ -26,11 +26,12 @@ Malte Landwehr is the CPO and CMO at Peec AI, a leading AI search analytics solu
 ### Upcoming Conference Talks & Panels
 - PI Live, London
 - Brighton SEO, Brighton
-- GEO KNOW HOW, Berlin: GEO Reporting
-- DMEXCO, Cologne: AI Visibility Tactics: From SEO Strategy to GEO Execution (Masterclass)
+- GEO KNOW HOW, Berlin
 - SEO Day, Cologne
 - SEO & Content Club, Berlin
 - Affiliate Conference, Berlin
+- OMT Summit, Düsseldorf
+- SMX, Munich
 
 ### Contact
 - DMs on [LinkedIn](https://www.linkedin.com/in/landwehr)  
