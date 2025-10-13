@@ -23,16 +23,6 @@ Malte Landwehr is the CPO and CMO at Peec AI, a leading AI search analytics solu
 - [llms.txt & .md files - Important AI Visibility helper or hoax?](https://peec.ai/blog/llms-txt-md-files-important-ai-visibility-helper-or-hoax)
 
 
-### Upcoming Conference Talks & Panels
-- PI Live, London
-- Brighton SEO, Brighton
-- GEO KNOW HOW, Berlin
-- SEO Day, Cologne
-- SEO & Content Club, Berlin
-- Affiliate Conference, Berlin
-- OMT Summit, Düsseldorf
-- SMX, Munich
-
 ### Contact
 - DMs on [LinkedIn](https://www.linkedin.com/in/landwehr)  
 
