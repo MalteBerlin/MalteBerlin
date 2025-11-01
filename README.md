@@ -15,7 +15,7 @@ Building AI Search Analytics for GEO (Generative Engine Optimization) and AEO (A
 
 
 ### About Malte Landwehr
-Malte Landwehr is the CPO and CMO at Peec AI, a leading AI search analytics solution. Before joining Peec, he was VP SEO at idealo, one of Europe’s largest price comparison platforms. Malte previously served as VP Product at Searchmetrics and has over 15 years of experience in SEO and Product Management. He has founded an SEO agency, conducted research on social networks, and built one of Germany’s 50 largest blogs. Malte frequently speaks at industry events and writes about the future of search, LLMs, and marketing in the AI-first era.
+Malte Landwehr is the CPO and CMO at Peec AI, a leading AI search analytics solution. Before joining Peec, he was VP SEO at idealo, one of Europe’s largest price comparison platforms. Malte previously served as VP Product at Searchmetrics and has over 20 years of experience in SEO and Product Management. He has founded an SEO agency, conducted research on social networks, and built one of Germany’s 50 largest blogs. Malte frequently speaks at industry events and writes about the future of search, LLMs, and marketing in the AI-first era.
 
 
 ### Writing
