@@ -36,9 +36,6 @@ Malte Landwehr is the CPO and CMO at Peec AI, a leading AI search analytics solu
   <img alt="Talks" src="https://img.shields.io/badge/Talks-Open%20to%20speaking-orange">
 </p>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MalteBerlin)](https://github.com/anuraghazra/github-readme-stats)
-
-
 <!--
 **MalteBerlin/MalteBerlin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
