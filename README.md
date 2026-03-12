@@ -8,7 +8,8 @@ Building AI Search Analytics for GEO (Generative Engine Optimization) and AEO (A
 <p align="center">
 <a href="https://www.linkedin.com/in/landwehr" target="_blank">LinkedIn</a> •
 <a href="https://x.com/maltelandwehr" target="_blank">X (Twitter)</a> •
-<a href="https://www.reddit.com/user/maltelandwehr" target="_blank">reddit</a>
+<a href="https://www.reddit.com/user/maltelandwehr" target="_blank">reddit</a> •
+<a href="https://www.reddit.com/user/maltelandwehr/comments/1rqyaqz/malte_landwehr_biography_profile/" target="_blank">Biography</a> 
 </p>
 
 ---
